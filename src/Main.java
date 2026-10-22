@@ -10,5 +10,6 @@ public class Main {
         System.out.println("Ho ten cua ban la: " + hoTen);
 
         input.close();
+        System.out.println("Bai tap tuan 2");
     }
 }
